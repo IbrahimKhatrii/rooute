@@ -24,7 +24,7 @@ Add `rooute` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  rooute: ^1.0.0
+  rooute: ^0.0.2
 ```
 
 Then run:
@@ -144,23 +144,6 @@ print(arg ?? 'No args');
 3. `Home` retrieves any arguments passed from the previous route.
 4. Routes resolve automatically using enum-based mapping.
 5. You can also create **custom transitions** with `PageRouteBuilder`.
-
----
-
-## Example Project Structure
-
-```
-lib/
- ├─ rooute.dart
- ├─ src/
- │   ├─ app.dart
- │   ├─ builder.dart
- │   ├─ enums.dart
- │   ├─ navigation.dart
- │   ├─ route.dart
- │   └─ typedefs.dart
- └─ example.dart
-```
 
 ---
 
