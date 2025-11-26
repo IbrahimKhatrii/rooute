@@ -24,7 +24,7 @@ Add `rooute` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  rooute: ^0.0.2
+  rooute: ^0.0.4
 ```
 
 Then run:
@@ -157,9 +157,3 @@ GitHub: [https://github.com/IbrahimKhatrii](https://github.com/IbrahimKhatrii)
 ## License
 
 MIT License – see [LICENSE](https://github.com/IbrahimKhatrii/rooute/blob/main/LICENSE)
-
----
-
-I can also create a **shorter, beginner-friendly version with screenshots, usage GIFs, and code snippets** ready for pub.dev if you want—it will make your package stand out more professionally.
-
-Do you want me to do that next?
