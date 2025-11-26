@@ -1,6 +1,6 @@
 name: rooute
 description: "A lightweight, enum-centric routing framework for Flutter with platform-adaptive transitions and strongly-typed navigation."
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/IbrahimKhatrii/rooute
 repository: https://github.com/IbrahimKhatrii/rooute
 issue_tracker: https://github.com/IbrahimKhatrii/rooute/issues
