@@ -24,7 +24,7 @@ Add `rooute` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  rooute: ^0.0.4
+  rooute: ^0.0.5
 ```
 
 Then run:
